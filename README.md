@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Salaj! 👋
 
-<!--
-**SalajPro/SalajPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕶️ About Me
+I'm a **computer enthusiast**, deeply into **Cybersecurity, Web development, and Robotics**. I love exploring the digital world, breaking and fixing things, and constantly learning new technologies. My areas of interest include:
 
-Here are some ideas to get you started:
+🔹 **Ethical Hacking |Pentester| |Red Teaming|**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Web Exploitation & Web Development**
+
+🔹 **AI & Machine Learning**
+
+🔹 **Robotics & Automation**
+
+Always hacking, always learning. 🚀
+
+---
+
+## 🏆 TryHackMe
+Check out my **TryHackMe** profile: [Here](https://tryhackme.com/p/2319203)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/2319203)
+---
+
