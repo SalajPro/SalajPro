@@ -15,7 +15,7 @@ Always hacking, always learning. 🚀
 
 ---
 
-## 🏆 TryHackMe
+# 🏆 TryHackMe
 Check out my **TryHackMe**
 [![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2319203)](https://tryhackme.com/p/SalajS)
 ---
