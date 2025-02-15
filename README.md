@@ -18,6 +18,6 @@ Always hacking, always learning. 🚀
 ## 🏆 TryHackMe
 Check out my **TryHackMe**
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SalajS)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SalajS)
+[![TryHackMe]([https://img.shields.io/badge/TryHackMe-Profile-green?style=flat&logo=tryhackme&logoColor=white](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2319203))](https://tryhackme.com/p/SalajS)
 ---
 
