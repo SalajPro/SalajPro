@@ -16,7 +16,7 @@ Always hacking, always learning. 🚀
 ---
 
 ## 🏆 TryHackMe
-Check out my **TryHackMe** profile: [Here](https://tryhackme.com/p/2319203)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/2319203)
+Check out my **TryHackMe**
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-green?style=flat&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/2319203](https://tryhackme.com/p/SalajS))
 ---
 
