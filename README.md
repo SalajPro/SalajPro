@@ -18,7 +18,7 @@ Always hacking, always learning. 🚀
 # 🏆 TryHackMe
 Check out my **TryHackMe** profile!
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SalajS.png?update=19s.com/SalajS.png)](https://tryhackme.com/p/SalajS)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SalajS.png?update=20s.com/SalajS.png)](https://tryhackme.com/p/SalajS)
 
 --
 ---
