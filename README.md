@@ -3,7 +3,7 @@
 ## 🕶️ About Me
 I'm a **computer enthusiast**, deeply into **Cybersecurity, Web development, and Robotics**. I love exploring the digital world, breaking and fixing things, and constantly learning new technologies. My areas of interest include:
 
-🔹 **Ethical Hacking | Pentester | Red Teaming |**
+🔹 **Ethical Hacking | Pentester | Red Teaming **
 
 🔹 **Web Exploitation & Web Development**
 
