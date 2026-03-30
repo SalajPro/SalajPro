@@ -42,7 +42,7 @@ mindset: "Break systems. Understand them. Rebuild better."
 
 ---
 
-## activity
+## Activity
 
 ```text
 Website: https://salajtech.com
@@ -52,18 +52,8 @@ LinkedIn: https://www.linkedin.com/in/salajs/
 
 ---
 
-## stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SalajS&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SalajS&theme=tokyonight&hide_border=true" height="160"/>
-
-</div>
-
----
-
-## current_focus
+## Current Focus
 
 ```yaml
 - Advanced exploitation techniques
@@ -74,7 +64,7 @@ LinkedIn: https://www.linkedin.com/in/salajs/
 
 ---
 
-## philosophy
+## Philosophy
 
 ```text
 "Technology is not meant to be used blindly.
