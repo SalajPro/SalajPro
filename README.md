@@ -1,25 +1,82 @@
-# Hi there, I'm Salaj! 👋
+<div align="center">
 
-## 🕶️ About Me
-I'm a **computer enthusiast**, deeply into **Cybersecurity, Web development, and Robotics**. I love exploring the digital world, breaking and fixing things, and constantly learning new technologies. My areas of interest include:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Salaj+Shekhar;Cybersecurity+%7C+AI+%7C+Robotics;Ethical+Hacking+%7C+Red+Teaming+%7C+Automation" />
 
-🔹 **| Ethical Hacking | Pentester | Red Teaming |**
+<br>
 
-🔹 **Web Exploitation & Web Development**
+<a href="https://github.com/SalajS">
+  <img src="https://img.shields.io/badge/GitHub-SalajS-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/SalajS">
+  <img src="https://img.shields.io/badge/TryHackMe-Profile-0d1117?style=for-the-badge&logo=tryhackme&logoColor=red" />
+</a>
+<a href="https://salajtech.com">
+  <img src="https://img.shields.io/badge/Website-salajtech.com-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/salajs/">
+  <img src="https://img.shields.io/badge/LinkedIn-Salaj-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
 
-🔹 **AI & Machine Learning**
-
-🔹 **Robotics & Automation**
-
-Always hacking, always learning. 🚀
+</div>
 
 ---
 
-# 🏆 TryHackMe
-Check out my **TryHackMe** profile!
+## whoami
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SalajS.png?update=29s.com/SalajS.png)](https://tryhackme.com/p/SalajS)
+```bash
+name: Salaj Shekhar
+role: Student | Developer | Security Enthusiast
 
---
+focus:
+  - Ethical Hacking
+  - Pentesting
+  - Red Teaming
+
+domains:
+  - Web Security & Exploitation
+  - Artificial Intelligence & Machine Learning
+  - Robotics & Automation
+
+mindset: "Break systems. Understand them. Rebuild better."
+```
+
 ---
 
+## activity
+
+```text
+Website: https://salajtech.com
+TryHackMe: https://tryhackme.com/p/SalajS
+LinkedIn: https://www.linkedin.com/in/salajs/
+```
+
+---
+
+## stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SalajS&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SalajS&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## current_focus
+
+```yaml
+- Advanced exploitation techniques
+- AI-powered tools
+- Robotics systems
+- Real-world security research
+```
+
+---
+
+## philosophy
+
+```text
+"Technology is not meant to be used blindly.
+It is meant to be understood, challenged, and mastered."
+```
